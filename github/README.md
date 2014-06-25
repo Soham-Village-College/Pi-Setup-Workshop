@@ -1,4 +1,4 @@
-![Octocat](images/octocat.png)Setting up a Github account
+![Octocat](../images/octocat.png)Setting up a Github account
 =================
 
 Throughout your GCSE in Computer Science you will the social coding site **[Github.com](www.github.com)**. The site will allow you to access work, and save you programs in the cloud, also allowing you to work collaboratively on problems.
