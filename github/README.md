@@ -9,10 +9,10 @@ When using **[Github.com](www.github.com)** your actions and code will usually b
 
 Make sure that you have signed up for [GitHub here](https://github.com/). You should use you school email account and your username should match. eg:
 
-'''
+
 - email: **jsmith1234@sohamcollege.org.uk** 
 - username: **jsmith1234**
-'''
+
 
 **Make sure your email is correct as changing this later will be a problem. Ensure you write your password down**
 
