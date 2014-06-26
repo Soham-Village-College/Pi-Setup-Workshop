@@ -1,5 +1,4 @@
 ![Raspberry Pi Logo](../images/Pi_Logo.png)
-
 What is a Raspberry Pi
 =================
 
