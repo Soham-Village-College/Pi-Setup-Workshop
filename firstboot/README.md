@@ -1,4 +1,6 @@
-![Raspberry Pi Logo](../images/Pi_Logo.png)What is a Raspberry Pi
+![Raspberry Pi Logo](../images/Pi_Logo.png)
+
+What is a Raspberry Pi
 =================
 
 In this session we will discuss what a Raspberry Pi is and connect it up for the first time.
