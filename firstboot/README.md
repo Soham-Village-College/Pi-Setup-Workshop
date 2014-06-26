@@ -39,7 +39,7 @@ When you have logged in, type this command to get to the **raspi-config** mspien
 sudo raspi-config
 ```
 When this has loaded you are ready to continue on to the next section.
-###[>>>Configuring you Raspberry Pi>>>](../config/README.md)
+###[>>>Configuring you Raspberry Pi>>>](../admin/README.md)
 
 :bangbang:
 ####Finished Early?
