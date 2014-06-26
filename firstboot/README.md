@@ -6,7 +6,8 @@ In this session we will discuss what a Raspberry Pi is and connect it up for the
 ###1 - What the heck is is?
 [![What is a Raspberry Pi](http://img.youtube.com/vi/e0wkVVVLvR8/0.jpg)](http://www.youtube.com/watch?v=e0wkVVVLvR8)
 
-:notebook:#####*Label the parts of you Raspberry Pi using the printed [worksheet](Pi-label.pdf), describe* what each part does.
+:notebook:
+#####*Label the parts of you Raspberry Pi using the printed [worksheet](Pi-label.pdf), describe* what each part does.
 
 
 ###2 - Connecting it up.
@@ -17,7 +18,8 @@ When setting up your Raspberry Pi, there is an order you should follow to avoid 
 3. Connect the ethernet cable (if available)
 4. Connect the power cable. (**This must always be the last connection made**)
 
-:notebook:#####*Make a note of this setup sequence on your printed diagram.*
+:notebook:
+#####*Make a note of this setup sequence on your printed diagram.*
 
 ###3 - First Boot
 Your Raspberry Pi will now boot up display a series of screens as it does. An important one is the NOOBs screen which allows you to reset your Pi in the event of something going really wrong. You would lose your data but reset your pi to it's factory state.
@@ -39,6 +41,8 @@ sudo raspi-config
 When this has loaded you are ready to continue on to the next section.
 ###[>>>Configuring you Raspberry Pi>>>](../config/README.md)
 
-:bangbang:####Finished Early?
+:bangbang:
+####Finished Early?
 Why not build your Pibow case?
+
 [![What is a Raspberry Pi](http://img.youtube.com/vi/2Pwc9QTgz_8/0.jpg)](http://www.youtube.com/watch?v=2Pwc9QTgz_8)
