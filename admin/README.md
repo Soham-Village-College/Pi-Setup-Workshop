@@ -41,3 +41,9 @@ sudo apt-get install tightvncserver
 ```
 When asked about space press y for yes.
 
+[![What is a Raspberry Pi](http://img.youtube.com/vi/m9YL0uf0uj0/0.jpg)](http://www.youtube.com/watch?v=m9YL0uf0uj0)
+
+###Make it visible from other computers
+Install Avahi-daemon to make you pi visible from other devices.
+[![What is a Raspberry Pi](http://img.youtube.com/vi/YuTKA3fJAAM/0.jpg)](http://www.youtube.com/watch?v=YuTKA3fJAAM)
+
